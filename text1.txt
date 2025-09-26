@@ -1,1 +1,0 @@
-creat text1.txt
